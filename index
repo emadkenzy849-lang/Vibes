@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head><link rel="stylesheet"href ="style.css"/></head>
+<style>
+    selector{
+        feature:value;
+    }
+    body{
+        background-color:palevioletred;
+        color:pink;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: larger;
+        text-overflow: ellipsis;
+    }
+</style>
+<body>
+<h1>vibes</h1>
+<ul>
+    <li>pink</li>
+    <li>blue</li>
+    <li>green</li>
+</ul>
+<p>turn your vibes into your home</p>
+<img src="
+https://i.pinimg.com/1200x/de/23/cf/de23cfd5944c71df0a63139b57c1b09f.jpg"/>
+    <a href="https://www.youtube.com/watch?v=yP1Q7M3NKt4&list=RDyP1Q7M3NKt4&start_radio=1"></a>
+    vidio about jellyfish vibes
+</a>
+<footer>
+    made by kenzy
+</footer>
+</body>
+</html>
